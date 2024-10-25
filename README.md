@@ -7,7 +7,7 @@
 
 This archive contains all the input files needed to reproduce the results of the paper.
 
-It has four folders, one for each of the enzyme-substrate complexes, which are multotriose, multotetraose, multopentaose, and multohexaose.
+It has four folders, one for each of the enzyme-substrate complexes, which are maltotriose, maltotetraose, maltopentaose, and maltohexaose.
 
 Each of these four folder contains two sub-folders: 'unbiased_MD' and 'biased_MD'.
 
