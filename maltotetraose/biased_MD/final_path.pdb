@@ -1,0 +1,156 @@
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.096429 n_s_water=0.010714 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.089296 n_s_water=0.055738 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.089286 n_s_water=0.101323 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.089286 n_s_water=0.146909 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.089286 n_s_water=0.192494 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.089286 n_s_water=0.238079 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.089286 n_s_water=0.283665 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.089286 n_s_water=0.329250 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.089286 n_s_water=0.374835 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.089286 n_s_water=0.420421 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.093380 n_s_water=0.465822 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.123497 n_s_water=0.500000 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.169083 n_s_water=0.500000 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.214668 n_s_water=0.500000 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.260253 n_s_water=0.500000 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.305839 n_s_water=0.500000 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.351424 n_s_water=0.500000 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.397009 n_s_water=0.500000 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.442595 n_s_water=0.500000 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.488180 n_s_water=0.500000 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.533766 n_s_water=0.500000 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.579351 n_s_water=0.500000 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.624936 n_s_water=0.500000 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.670522 n_s_water=0.500000 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.716107 n_s_water=0.500002 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.761692 n_s_water=0.500062 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.807258 n_s_water=0.501368 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.851341 n_s_water=0.512963 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.883449 n_s_water=0.545316 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.896855 n_s_water=0.588885 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.910260 n_s_water=0.632455 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.923661 n_s_water=0.676026 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.936972 n_s_water=0.719625 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.949532 n_s_water=0.763446 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.959781 n_s_water=0.807864 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.970018 n_s_water=0.852285 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.980082 n_s_water=0.896746 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=0.990041 n_s_water=0.941230 
+END
+REMARK TYPE=EUCLIDEAN
+REMARK ARG=n_s_contact,n_s_water
+REMARK n_s_contact=1.000000 n_s_water=0.985714 
+END
