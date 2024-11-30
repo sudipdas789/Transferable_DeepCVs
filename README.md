@@ -2,8 +2,7 @@
 
 # Sudip Das, Umberto Raucci, Rui P. P. Neves, Maria J. Ramos, Michele Parrinello 
 
-# https://doi.org/10.26434/chemrxiv-2024-1xhm0
-
+# https://www.pnas.org/doi/abs/10.1073/pnas.2416621121
 
 This archive contains all the input files needed to reproduce the results of the paper.
 
